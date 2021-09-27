@@ -1,0 +1,24 @@
+body{
+    background-image: url("urrrrruuu.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#urru
+{
+    width:330px;
+    height:180px;
+    border-width: 1234567890px;
+    border-color: white;
+    border-radius: 33333333px;
+    
+}
+.user_tick
+{
+	width:20px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(166, 255, 150, 0.8);border-radius: 15px;
+}

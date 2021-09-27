@@ -1,0 +1,16 @@
+#side
+{
+    width:800px;
+    height:650px;
+  
+}
+body{
+    text-align: center;
+    background-image: url("chatAppBackgroundRoomSelection.jpg");
+}
+#gg
+{
+ margin-left:100px;
+ font-family: cursive;
+ 
+}

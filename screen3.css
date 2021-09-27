@@ -1,0 +1,33 @@
+body{
+    background-image:url("https://static.turbosquid.com/Preview/2020/03/03__08_56_17/schoolhallway_TS.jpg413B06CC-85BC-4B39-8135-9EC439446A80Large.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#logout
+{
+   margin-left:1100px;
+   margin-top:10px;
+}
+#icon_I
+{
+    width:330px;
+    height:180px;
+    border-width: 1234567890px;
+    border-color: white;
+    border-radius: 33333333px;
+    
+}
+#output
+{
+    background-color: blue;
+    border-radius: 5px;
+    border-width: 5px;
+}
+#room_name
+{
+    width:400px;
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
